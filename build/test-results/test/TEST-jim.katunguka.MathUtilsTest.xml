@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jim.katunguka.MathUtilsTest" tests="6" skipped="1" failures="0" errors="0" timestamp="2020-11-25T21:06:37" hostname="C809083A77485C" time="0.041">
+  <properties/>
+  <testcase name="testDisabled()" classname="jim.katunguka.MathUtilsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testDivide()" classname="jim.katunguka.MathUtilsTest" time="0.01"/>
+  <testcase name="testMultiply()" classname="jim.katunguka.MathUtilsTest" time="0.012"/>
+  <testcase name="testComputeCircleRadius(RepetitionInfo)[1]" classname="jim.katunguka.MathUtilsTest" time="0.003"/>
+  <testcase name="testComputeCircleRadius(RepetitionInfo)[2]" classname="jim.katunguka.MathUtilsTest" time="0.001"/>
+  <testcase name="testComputeCircleRadius(RepetitionInfo)[3]" classname="jim.katunguka.MathUtilsTest" time="0.001"/>
+  <system-out><![CDATA[This runs before all
+cleaning up.
+Running Multiply method with tags [Math]
+cleaning up.
+cleaning up.
+cleaning up.
+cleaning up.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

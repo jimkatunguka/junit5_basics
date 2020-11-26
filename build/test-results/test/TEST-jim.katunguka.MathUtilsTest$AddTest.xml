@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jim.katunguka.MathUtilsTest$AddTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-11-25T21:06:37" hostname="C809083A77485C" time="0.003">
+  <properties/>
+  <testcase name="testAddPositive()" classname="jim.katunguka.MathUtilsTest$AddTest" time="0.002"/>
+  <testcase name="testAddNegative()" classname="jim.katunguka.MathUtilsTest$AddTest" time="0.001"/>
+  <system-out><![CDATA[cleaning up.
+cleaning up.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
